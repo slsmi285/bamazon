@@ -154,7 +154,7 @@ function increaseQty(item, stockQty, addQty) {
 function addNewProduct() {
 	// querying prior to inquirer so that I can build the choices array from all 
 	// available departments
-	connection.query("SELECT * FROM departments", function (error, results) {
+	connection.query("SELECT * FROM deparments", function (error, results) {
 		// collect item data
 		inquirer.prompt([
 			{

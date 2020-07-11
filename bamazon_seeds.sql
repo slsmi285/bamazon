@@ -34,18 +34,18 @@ CREATE TABLE deparments (
 );
 
 -- default table values --
-INSERT INTO departments (department_name, over_head_costs)
+INSERT INTO deparments (department_name, over_head_costs)
 VALUES ("Music", 2000), ("Movies", 2000), ("Electronics", 10000), ("Toys", 2000), ("Household", 1000), ("Clothes", 1000), ("Hardware", 500),
 			 ("Sports Equipment", 1300);
 
  -- view tables --
 SELECT * FROM products;
-SELECT * FROM departments;            
+SELECT * FROM deparments;            
 
 -- inner join for profit query --
-SELECT department_id, departments.department_name, over_head_costs, SUM(product_sales) AS product_sales,
+SELECT department_id, deparments.department_name, over_head_costs, SUM(product_sales) AS product_sales,
 	SUM(product_sales) - over_head_costs AS total_profit
-FROM departments
+FROM deparments
 INNER JOIN products
-ON departments.department_name = products.department_name
+ON deparments.department_name = products.department_name
 GROUP BY department_id;
