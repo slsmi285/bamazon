@@ -246,6 +246,9 @@ function consoleTable(title, results) {
 	console.table(title, values);
 }
 
+
+
+
 // exit function, says goodbye, ends db connection
 function exit() {
 	console.log("\nNever stop selling.");
