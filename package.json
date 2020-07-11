@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Creating an Amazon-like storefront using MySQL. The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slsmi285/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slsmi285/bamazon/issues"
+  },
+  "homepage": "https://github.com/slsmi285/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^7.3.1",
+    "mysql": "^2.18.1"
+  }
+}
