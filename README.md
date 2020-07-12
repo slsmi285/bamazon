@@ -72,9 +72,15 @@ console.table
 
 7. link to screenshot:
 
-[Welcome](https://github.com/slsmi285/bamazon/blob/master/images/bamazonCust_welcome.PNG)
-[View Items](https://github.com/slsmi285/bamazon/blob/master/images/bamazonCust_welcome.PNG)
-[Purchase Item](https://github.com/slsmi285/bamazon/blob/master/images/bamazonCust_view-items.PNG)
+- [Welcome](https://github.com/slsmi285/bamazon/blob/master/images/bamazonCust_welcome.PNG)
+
+<br>
+
+- [View Items](https://github.com/slsmi285/bamazon/blob/master/images/bamazonCust_welcome.PNG)
+
+<br>
+
+- [Purchase Item](https://github.com/slsmi285/bamazon/blob/master/images/bamazonCust_view-items.PNG)
 
 #### Managers
 
@@ -92,10 +98,19 @@ Run the following in your CLI while inside your cloned repo directory
 
 5. link to screenshot: 
 
-[View Products for Sale](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_view-prods.PNG)
-[View Low Inventory](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_invent.PNG)
-[Add to Inventory](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_add-to-inventory.PNG)
-[Add New Product](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_add-to-newprod.PNG)
+- [View Products for Sale](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_view-prods.PNG)
+
+<br>
+
+- [View Low Inventory](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_invent.PNG)
+
+<br>
+
+- [Add to Inventory](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_add-to-inventory.PNG)
+
+<br>
+
+- [Add New Product](https://github.com/slsmi285/bamazon/blob/master/images/bamazonMgr_add-to-newprod.PNG)
 
 #### Supervisors
 
@@ -110,8 +125,11 @@ Run the following in your CLI while inside your cloned repo directory
 
 5. link to screenshot: 
 
-[View Product Sales](https://github.com/slsmi285/bamazon/blob/master/images/bamazonSpvr_view-prod-sales.PNG)
-[Add a New Department](https://github.com/slsmi285/bamazon/blob/master/images/bamazonSpvr_add-new-depart.PNG)
+- [View Product Sales](https://github.com/slsmi285/bamazon/blob/master/images/bamazonSpvr_view-prod-sales.PNG)
+
+<br>
+
+- [Add a New Department](https://github.com/slsmi285/bamazon/blob/master/images/bamazonSpvr_add-new-depart.PNG)
 
 
 
