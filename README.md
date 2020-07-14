@@ -117,6 +117,7 @@ Run the following in your CLI while inside your cloned repo directory
 1. Run the following in your CLI while inside your cloned repo directory
 
   ```node bamazonSupervisor.js```
+  
 2. Select from the resulting screen whether you would like to view product sales by department, create a new department, or exit.
 
 3. If you select create new department, follow the prompts for department name and overhead costs
