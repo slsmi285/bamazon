@@ -39,6 +39,7 @@ console.table
 - Open CLI, navigate to the cloned repository, and run the following to install the npm package dependencies
 
   ```npm install```
+
 - Open MySQL Workbench, SQL Pro, or your preferred database management app. Open the "bamazon.sql" script from the cloned repo, and run it to set up the database and base product/department data.
 
 - Next, within the cloned repo, you'll need to create a pw.js file with the following code, and add your password to access your root server to that file. This file is a dependency for the app. If you do not require a password to access your root, simply leave the pw property as an empty string.
@@ -60,6 +61,7 @@ console.table
 1. Run the following in your CLI while inside your cloned repo directory
 
   ```node bamazonCustomer.js```
+
 2. Select from the resulting screen whether you would like to view items or leave.
 
 3. If you select view items, input and enter the item id that you would like to purchase
@@ -88,6 +90,7 @@ console.table
 Run the following in your CLI while inside your cloned repo directory
 
   ```node bamazonManager.js```
+  
 1. Select from the resulting screen whether you would like to view products for sale, view low inventory, add to inventory, add new product, or exit.
 
 2. If you select add to inventory, follow the prompts for item id to increase inventory on and quantity to increase inventory
@@ -117,7 +120,7 @@ Run the following in your CLI while inside your cloned repo directory
 1. Run the following in your CLI while inside your cloned repo directory
 
   ```node bamazonSupervisor.js```
-  
+
 2. Select from the resulting screen whether you would like to view product sales by department, create a new department, or exit.
 
 3. If you select create new department, follow the prompts for department name and overhead costs
